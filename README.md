@@ -1,7 +1,3 @@
-Here’s the README file for your orange-selling website:
-
----
-
 # 🍊 Orange Grocery Website
 
 Welcome to the **Orange Grocery Website**, an interactive and visually appealing web interface for purchasing fresh oranges. This project is built using React and Tailwind CSS for styling, with Framer Motion added to enhance the user experience through smooth animations.
